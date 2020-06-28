@@ -1,6 +1,0 @@
-C:\Users\Tom\AppData\Local\Temporary Projects\PE18\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\018 - Largest sum in a triangle\PE18\PE18\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\018 - Largest sum in a triangle\PE18\PE18\bin\Debug\PE18.exe
-D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\018 - Largest sum in a triangle\PE18\PE18\bin\Debug\PE18.pdb
-D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\018 - Largest sum in a triangle\PE18\PE18\obj\x86\Debug\PE18.exe
-D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\018 - Largest sum in a triangle\PE18\PE18\obj\x86\Debug\PE18.pdb
