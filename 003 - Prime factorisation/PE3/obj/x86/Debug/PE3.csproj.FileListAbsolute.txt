@@ -1,0 +1,10 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\3\PE3\PE3\bin\Debug\PE3.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\3\PE3\PE3\bin\Debug\PE3.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\3\PE3\PE3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\3\PE3\PE3\obj\x86\Debug\PE3.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\3\PE3\PE3\obj\x86\Debug\PE3.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\003 - Prime factorisation\PE3\obj\x86\Debug\PE3.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\003 - Prime factorisation\PE3\obj\x86\Debug\PE3.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\003 - Prime factorisation\PE3\bin\Debug\PE3.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\003 - Prime factorisation\PE3\bin\Debug\PE3.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\003 - Prime factorisation\PE3\obj\x86\Debug\ResolveAssemblyReference.cache

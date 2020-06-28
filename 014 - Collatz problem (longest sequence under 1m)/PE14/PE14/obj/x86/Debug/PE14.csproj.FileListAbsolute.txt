@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\014 - Collatz problem (longest sequence under 1m)\PE14\PE14\bin\Debug\PE14.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\014 - Collatz problem (longest sequence under 1m)\PE14\PE14\bin\Debug\PE14.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\014 - Collatz problem (longest sequence under 1m)\PE14\PE14\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\014 - Collatz problem (longest sequence under 1m)\PE14\PE14\obj\x86\Debug\PE14.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\014 - Collatz problem (longest sequence under 1m)\PE14\PE14\obj\x86\Debug\PE14.pdb

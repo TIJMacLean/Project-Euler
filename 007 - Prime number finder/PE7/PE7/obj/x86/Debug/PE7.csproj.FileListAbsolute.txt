@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\007 - Prime number finder\PE7\PE7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\007 - Prime number finder\PE7\PE7\bin\Debug\PE7.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\007 - Prime number finder\PE7\PE7\bin\Debug\PE7.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\007 - Prime number finder\PE7\PE7\obj\x86\Debug\PE7.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\007 - Prime number finder\PE7\PE7\obj\x86\Debug\PE7.pdb

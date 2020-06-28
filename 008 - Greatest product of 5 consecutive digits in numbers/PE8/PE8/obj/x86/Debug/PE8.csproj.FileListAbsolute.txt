@@ -1,0 +1,9 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\PE8.Form1.resources
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\PE8.Properties.Resources.resources
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\bin\Debug\PE8.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\bin\Debug\PE8.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\PE8.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\008 - Greatest product of 5 consecutive digits in numbers\PE8\PE8\obj\x86\Debug\PE8.pdb

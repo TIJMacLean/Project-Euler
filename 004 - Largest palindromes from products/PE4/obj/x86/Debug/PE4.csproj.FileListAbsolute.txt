@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\004 - Palindromes\PE4\bin\Debug\PE4.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\004 - Palindromes\PE4\bin\Debug\PE4.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\004 - Palindromes\PE4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\004 - Palindromes\PE4\obj\x86\Debug\PE4.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\004 - Palindromes\PE4\obj\x86\Debug\PE4.pdb

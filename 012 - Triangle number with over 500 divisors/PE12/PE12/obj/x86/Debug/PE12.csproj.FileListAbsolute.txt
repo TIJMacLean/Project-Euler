@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\012 - Triangle number with over 500 divisors\PE12\PE12\bin\Debug\PE12.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\012 - Triangle number with over 500 divisors\PE12\PE12\bin\Debug\PE12.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\012 - Triangle number with over 500 divisors\PE12\PE12\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\012 - Triangle number with over 500 divisors\PE12\PE12\obj\x86\Debug\PE12.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\012 - Triangle number with over 500 divisors\PE12\PE12\obj\x86\Debug\PE12.pdb

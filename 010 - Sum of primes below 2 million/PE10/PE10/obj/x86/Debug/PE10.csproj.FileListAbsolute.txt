@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\010 - Sum of primes below 2 million\PE10\PE10\bin\Debug\PE10.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\010 - Sum of primes below 2 million\PE10\PE10\bin\Debug\PE10.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\010 - Sum of primes below 2 million\PE10\PE10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\010 - Sum of primes below 2 million\PE10\PE10\obj\x86\Debug\PE10.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\010 - Sum of primes below 2 million\PE10\PE10\obj\x86\Debug\PE10.pdb

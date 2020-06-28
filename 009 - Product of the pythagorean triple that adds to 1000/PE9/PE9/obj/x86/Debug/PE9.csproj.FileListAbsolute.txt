@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\009 - Product of the pythagorean triple that adds to 1000\PE9\PE9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\009 - Product of the pythagorean triple that adds to 1000\PE9\PE9\bin\Debug\PE9.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\009 - Product of the pythagorean triple that adds to 1000\PE9\PE9\bin\Debug\PE9.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\009 - Product of the pythagorean triple that adds to 1000\PE9\PE9\obj\x86\Debug\PE9.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\009 - Product of the pythagorean triple that adds to 1000\PE9\PE9\obj\x86\Debug\PE9.pdb

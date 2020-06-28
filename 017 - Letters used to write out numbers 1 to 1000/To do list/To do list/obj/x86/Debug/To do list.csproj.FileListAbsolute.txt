@@ -1,0 +1,9 @@
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\bin\Debug\To do list.exe
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\bin\Debug\To do list.pdb
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\To_do_list.Form1.resources
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\To_do_list.Properties.Resources.resources
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\To do list.exe
+C:\Users\Tom\AppData\Local\Temporary Projects\To do list\obj\x86\Debug\To do list.pdb

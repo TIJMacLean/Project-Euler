@@ -1,0 +1,5 @@
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\006 - Difference between square of sum and sum of squares\PE6\PE6\bin\Debug\PE6.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\006 - Difference between square of sum and sum of squares\PE6\PE6\bin\Debug\PE6.pdb
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\006 - Difference between square of sum and sum of squares\PE6\PE6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\006 - Difference between square of sum and sum of squares\PE6\PE6\obj\x86\Debug\PE6.exe
+D:\Tom\Documents\Hobbies\Programming\C#\Project Euler\006 - Difference between square of sum and sum of squares\PE6\PE6\obj\x86\Debug\PE6.pdb
